@@ -10,7 +10,7 @@ Description:
 
 
 
-Links & Images
+Links & Images:
 
 Link to Horiseon: https://salask24.github.io/horiseon-challenge-by-kim/
 Link to github repo: https://github.com/salask24/horiseon-challenge-by-kim.git
