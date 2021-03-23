@@ -1,8 +1,11 @@
-Description:
+Description: Refactored the website to make it accessible.
+
+Changes made:
 
     Changed the title from "website" to "Horiseon"
     Added an href in header h1 - redirect anchor
-    Changed div alss="header" to header class="header"
+    Changed div class="header" to header class="header"
+    Added nav tag in header before the list and changed div in header in style.css to .header nav along with the others below in the header section
     Added section to class hero with main and article tags
     Added alt attributes after all images for accessability
     Added hero id for "search-engine-optimization"
