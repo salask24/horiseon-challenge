@@ -4,11 +4,13 @@
     padding: 0;
     margin: 0;
 }
+/*End of all*/
 
+/*Body section*/
 body {
     background-color: #d9dcd6;
 }
-
+/*End of body section*/
 
 /*Header styles*/
 .header {
@@ -53,7 +55,6 @@ p {
     font-size: 16px;
 }
 /*End of Header*/
-
 
 /*Hero section*/
 .hero {
@@ -128,7 +129,6 @@ p {
     max-width: 150px;
 }
 /*End of benefit section*/
-
 
 /*Footer styles*/
 .footer {
