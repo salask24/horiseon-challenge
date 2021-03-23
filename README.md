@@ -1,6 +1,6 @@
 Description: 
 
-Refactored the website to make it accessible.
+Refactored the Horiseon website to help avoid litigation by making it accessible for people with disabilities meeting accessibility standards.
 
 Changes made:
 
