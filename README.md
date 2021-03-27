@@ -15,6 +15,8 @@ Changes made:
     Consolidated CSS classes
     Added comments to html and style sheet to make it readable seperating sections
     Cleaned up index.html cleaning up syntax and seperating sections
+    Changed last footer div to just footer
+    changed H2 in footer to H3
 
 
 
